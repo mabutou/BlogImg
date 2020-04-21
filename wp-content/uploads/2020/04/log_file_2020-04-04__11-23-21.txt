@@ -1,0 +1,161 @@
+
+---Downloaded files---
+The import files for: Oliver were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://butou.ma
+Data file = /www/wwwroot/mabutou/wp-content/themes/theblogger/admin/demo-data/oliver/content.xml
+Widget file = /www/wwwroot/mabutou/wp-content/themes/theblogger/admin/demo-data/oliver/widgets.wie
+Customizer file = /www/wwwroot/mabutou/wp-content/themes/theblogger/admin/demo-data/oliver/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+(TheBlogger) About Me - About Me - Imported
+Categories - Categories - Imported
+Mailchimp Sign-Up Form - No Title - Imported
+Popular Posts [Top 10] - Trending Posts - Imported
+Text - No Title - Imported
+Recent Posts - No Title - Imported
+
+Header Social Media Icons : 
+
+(TheBlogger) Social Media Icon - Facebook - Imported
+(TheBlogger) Social Media Icon - Twitter - Imported
+(TheBlogger) Social Media Icon - YouTube - Imported
+(TheBlogger) Social Media Icon - Dribbble - Imported
+(TheBlogger) Social Media Icon - Instagram - Imported
+
+Author Social Media Icons : 
+
+(TheBlogger) Social Media Icon - Facebook - Imported
+(TheBlogger) Social Media Icon - Twitter - Imported
+(TheBlogger) Social Media Icon - Vine - Imported
+(TheBlogger) Social Media Icon - Dribbbble - Imported
+(TheBlogger) Social Media Icon - Instagram - Imported
+
+Footer Subscribe : 
+
+Mailchimp Sign-Up Form - Stay Updated - Imported
+
+Footer Copyright Text : 
+
+Text - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
